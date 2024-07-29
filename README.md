@@ -5,7 +5,7 @@ Company: CODETECH IT SOLUTIONS
 ID: CT08DS5603
 Domain: CYBERSECURITY & ETHICAL HACKING
 Duration: JULY TO AUGUST 2024
-Mentor: SRAVANI GOUNI
+Mentor: Mohammed Muzammil Ahmed
 
 ## Project Overview: Password Strength Assessment Tool
 
